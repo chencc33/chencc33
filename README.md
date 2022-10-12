@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/chencc33)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chencc33&show_icons=true&theme=dracula)](https://github.com/chencc33)
 
 </div>
 

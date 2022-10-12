@@ -1,4 +1,30 @@
-### Hi there 👋
+### About Me 
+
+I am a graduate student at the University of Arizona, studying Data Science and researching Information Extraction. Now, I am a full-stack developer.
+
+### Languages
+![javascript]
+![python]
+![r]
+
+### Frontend Development
+
+![react]
+![redux]
+![react-router]
+![html]
+![css]
+
+### Backend Development
+
+![nodejs]
+![expressjs]
+![flask]
+![sqlite]
+![postgres]
+![sequelize]
+![awss3]
+![heroku]
 
 <!--
 **chencc33/chencc33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

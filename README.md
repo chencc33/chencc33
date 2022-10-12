@@ -1,3 +1,14 @@
+### <div align='center'> My Name is Chen Chen, I'm a </div>
+<div align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?font=Tiro+Gurmukhi&size=30&duration=2000&pause=1000&color=74A9CF&center=true&vCenter=true&width=600&height=60&lines=Developer;Researcher;Linguist;Designer" alt="Typing SVG" />
+</div>
+
+<div align='center'>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/chencc33)
+
+</div>
+
 ### About Me 
 
 I am a graduate student at the University of Arizona, studying Data Science and researching Information Extraction. Now, I am a full-stack developer.

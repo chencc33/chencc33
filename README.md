@@ -11,7 +11,11 @@
 
 ### About Me 
 
-I am a graduate student at the University of Arizona, studying Data Science and researching Information Extraction. Now, I am a full-stack developer.
+I am a full-stack software engineer pursuing a Master's degree in Data Science at the University of Arizona.
+
+I have learned skills in Javascript, Python, React/Redux, Flask, SQLAlchemy, Express, Sequelize, and Node.js, which I have used to develop several web applications. I have experience in web development, object-oriented programming, and test-driven development. 
+
+I am a hard worker, a quick learner, excellent at communication, and able to simultaneously work under high-demand situations on several projects. I look forward to discussing how I can help solve any challenges you may have and build positive applications.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

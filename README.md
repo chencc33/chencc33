@@ -11,9 +11,13 @@
 
 ### About Me 
 
-I am a full-stack software engineer pursuing a Master's degree in Data Science at the University of Arizona.
+I am a full-stack software engineer pursuing a Master's degree in Data Science at the University of Arizona. 
 
-I have learned skills in Javascript, Python, React/Redux, Flask, SQLAlchemy, Express, Sequelize, and Node.js, which I have used to develop several web applications. I have experience in web development, object-oriented programming, and test-driven development. 
+My past work experience is more language and information related. I have worked as a graduate research associate at the University of Arizona to maintain and expand a rule-based information extraction system to improve the performance of a Neural Dialog Act Classifier to improve team communication.
+
+I am currently pursuing a career in software engineering. I have learned skills in Javascript, Python, React/Redux, Flask, SQLAlchemy, Express, Sequelize, R, and Node.js, which I have used to develop several web applications. In addition, I have experience in web development, object-oriented programming, and test-driven development. 
+
+Now, I am in a team of one University of Arizona faculty member and four graduate students to develop a tool to help low-income families in Pima county, Arizona, through the difficult Arizona summers. I am proud that we can solve real, life-threatening problems with coding.
 
 I am a hard worker, a quick learner, excellent at communication, and able to simultaneously work under high-demand situations on several projects. I look forward to discussing how I can help solve any challenges you may have and build positive applications.
 
